@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+Me chamo Paulo Halberto, formado em psicologia.
+Cearence da gema. 
+Fortaleza Terra do Sol.
+Formado pela Universidade Estácio do Ceará
+Cursando Programação na Digital College
+Autônomo
 <!--
 **paulohalberto/paulohalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
