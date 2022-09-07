@@ -11,6 +11,8 @@
 
 ![Paulohalberto GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohalberto&show_icons=true&theme=gruvbox)
 
+![ cobra gif ](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **paulohalberto/paulohalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
