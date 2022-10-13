@@ -13,7 +13,7 @@
 
 ![Paulohalberto GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohalberto&show_icons=true&theme=gruvbox)
 
-![ cobra gif ](https://github.com/paulohalberto/paulohalberto/blob/output/github-contribution-grid-snake.svg)
+![ cobra gif ](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
