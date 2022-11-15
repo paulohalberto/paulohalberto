@@ -1,4 +1,6 @@
-### E aêêê! Eu sou o Paulo Halberto✌️
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paulo Halberto</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohalberto&color=blue" alt="Profile views" /> </p>
+
 🎓 Formado em psicologia
 
 💻 Full-Stack Development student at Digital College.
@@ -8,12 +10,25 @@
 👨‍💼 Autônomo 
 
 🚀 A busca de novos conhecimentos pode nos levar além das nossas limitações
+## Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulohalbertoo)
+<a href="https://twitter.com/paulohalbertoo" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-paulohalberto-05122A?style=flat&logo=twitter" alt="twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/paulo-halberto-0922b4193/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-pautohalberto-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
+</a>
+<a href="https://www.instagram.com/paulohabertoo/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-paulohalbertoo-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
 
 ![Paulohalberto GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohalberto&show_icons=true&theme=gruvbox)
 
+
 ![ cobra gif ](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!--
