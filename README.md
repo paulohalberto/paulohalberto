@@ -1,13 +1,13 @@
 ### E aêêê! Eu sou o Paulo Halberto✌️
-🎓formado em psicologia
+🎓 Formado em psicologia
 
-💻Aprendendo Programação na Digital College
+💻 Full-Stack Development student at Digital College.
 
-🌤️Moro em Fortaleza Terra do Sol
+🌤️ Moro em Fortaleza Terra do Sol
 
-👨‍💼Autônomo 
+👨‍💼 Autônomo 
 
-🚀A busca de novos conhecimentos pode nos levar além das nossas limitações
+🚀 A busca de novos conhecimentos pode nos levar além das nossas limitações
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulohalbertoo)
 
