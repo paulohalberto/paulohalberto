@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/paulo-halberto-0922b4193/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-pautohalberto-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
 </a>
-<a href="https://www.instagram.com/paulohabertoo/" target="_blank">
+<a href="https://www.instagram.com/paulohalbertoo/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-paulohalbertoo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
