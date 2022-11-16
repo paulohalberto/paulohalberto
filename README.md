@@ -1,15 +1,17 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paulo Halberto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohalberto&color=blue" alt="Profile views" /> </p>
 
-🎓 Formado em psicologia
+🎓 𝑭𝒐𝒓𝒎𝒂𝒅𝒐 𝒆𝒎 𝒑𝒔𝒊𝒄𝒐𝒍𝒐𝒈𝒊𝒂
 
-💻 Full-Stack Development student at Digital College.
+💻 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒕 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑪𝒐𝒍𝒍𝒆𝒈𝒆
 
-🌤️ Moro em Fortaleza Terra do Sol
+🌤️ 𝑴𝒐𝒓𝒐 𝒆𝒎 𝑭𝒐𝒓𝒕𝒂𝒍𝒆𝒛𝒂 𝑻𝒆𝒓𝒓𝒂 𝒅𝒐 𝑺𝒐𝒍
 
-👨‍💼 Autônomo 
+👨‍💼 𝑨𝒖𝒕𝒐𝒏𝒐𝒎𝒐 
 
-🚀 A busca de novos conhecimentos pode nos levar além das nossas limitações
+🚀 𝑨 𝒃𝒖𝒔𝒄𝒂 𝒅𝒆 𝒏𝒐𝒗𝒐𝒔 𝒄𝒐𝒏𝒉𝒆𝒄𝒊𝒎𝒆𝒏𝒕𝒐𝒔 𝒑𝒐𝒅𝒆 𝒏𝒐𝒔 𝒍𝒆𝒗𝒂𝒓 𝒂𝒍é𝒎 𝒅𝒂𝒔 𝒏𝒐𝒔𝒔𝒂𝒔 𝒍𝒊𝒎𝒊𝒕𝒂çõ𝒆𝒔
+
+𝑬𝒗𝒐𝒍𝒖𝒊𝒏𝒅𝒐 ■■■■□90%
 ## Contact
 
 <a href="https://twitter.com/paulohalbertoo" target="_blank">
